@@ -12,7 +12,7 @@
     "footprint": "bdbd594cc55e61932180b8e4df7d1d92de1851a7"
   },
   "repository": {
-    "url": "https://github.com/Unity-Technologies/Graphics.git",
+    "url": "https://github.com/GoShikhar/com.unity.render-pipelines.core.git",
     "type": "git",
     "revision": "a197e35ba4e93349ccbb4fddd4f3f80ba7b1c113"
   }
