@@ -36,9 +36,9 @@ namespace UnityEngine.Rendering
             }
             catch (Exception e)
             {
-                if (!(e.Data.Contains("InvalidImport") && e.Data["InvalidImport"] is int && (int)e.Data["InvalidImport"] == 1))
-                    throw e;
-                return (false, true);
+                //if (!(e.Data.Contains("InvalidImport") && e.Data["InvalidImport"] is int && (int)e.Data["InvalidImport"] == 1))
+                   // throw e;
+                return (false, false);
             }
         }
 
